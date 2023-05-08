@@ -1,0 +1,161 @@
+header {
+    background-color: black;
+    height: 72px;
+    border: 1px solid whitesmoke;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 20px;
+}
+
+.img1 {
+    height: 50px;
+    width: 120px;
+}
+
+.subhead h3 {
+    color: rgba(0, 0, 0, 0.147);
+    float: right;
+    margin-top: -40px;
+    justify-content: end;
+}
+
+a {
+    color: rgba(224, 228, 232, 0.881);
+    word-spacing: 10px;
+}
+
+.main1 {
+    background-color: black;
+    width: 100%;
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg);
+    margin-left: 80px;
+    width: 1200px;
+    height: 700px;
+    opacity: 1;
+    
+
+}
+
+
+section {
+    display: grid;
+    justify-content: center;
+    color: aliceblue;
+
+}
+
+main {
+    background-color: black;
+    margin-top: -19px
+}
+
+.mid-img {
+    display: inline-flex;
+    margin-left: 60px;
+    margin-top: 35px;
+    justify-content: center;
+    column-gap: 20px;
+
+}
+
+.childimg {
+    display: inline-flex;
+    margin-left: 240px;
+    margin-top: 50px;
+    column-gap: 20px;
+}
+
+.a1 {
+    display: grid;
+    padding: 10px 15px;
+    width: 300px;
+    height: 200px;
+    justify-content: space-around;
+    justify-content: center;
+    margin-left: 80px;
+
+
+}
+
+.caption {
+    color: aliceblue;
+    display: inline-block;
+    padding-top: 20px;
+    margin-top: 250px;
+    margin-left: -50px;
+    justify-content: center;
+    width: 1310px;
+    background-color: black;
+    margin-top: 280px;
+    font-size: 20px;
+    text-align: center;
+
+
+}
+
+.d1 {
+    text-align: center;
+    font-size: 28px;
+}
+
+.d2 {
+    text-align: center;
+    font-size: 22px;
+}
+
+figcaption {
+    color: aliceblue;
+    margin-top: 220px;
+    margin-left: -280px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    font-size: 25px;
+    column-gap: 28px;
+
+}
+
+.block-1 {
+    color: aliceblue;
+    background-color: black;
+    height: 250px;
+    margin-top: 140px;
+    width: 210px;
+    text-align: center;
+    opacity: 1;
+}
+
+.block-2 {
+    color: aliceblue;
+    background-color: black;
+    height: 250px;
+    margin-top: 140px;
+    width: 210px;
+    text-align: center;
+    opacity: 1;
+}
+
+.block-3 {
+    color: aliceblue;
+    background-color: black;
+    height: 250px;
+    margin-top: 140px;
+    width: 210px;
+    text-align: center;
+    opacity: 1;
+}
+
+.mainblock {
+
+    display: flex;
+    justify-content: center;
+
+
+    column-gap: 70px;
+
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg);
+    width: 1200px;
+    height: 500px;
+    margin-left: 70px;
+    margin-top: 40px
+}
